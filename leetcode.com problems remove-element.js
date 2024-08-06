@@ -3,6 +3,7 @@
  * @param {number} val
  * @return {number}
  */
+
 var removeElement = function(nums, val) {
     let k = 0; // Pointer for the position of the next non-val element
 
